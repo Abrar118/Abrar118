@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abrar Mahir Esam
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abrar118/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](abrarmahiresam.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://www.abrarmahiresam.tech)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-cyan)](https://codeforces.com/profile/Abrar_Mahir_Esam)
 
 I'm a CSE undergraduate at Military Institute of Science and Technology with a passion for software development, competitive programming, and system design. Currently working as the Executive Director at MIST Computer Club.
