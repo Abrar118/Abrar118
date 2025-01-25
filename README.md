@@ -89,7 +89,7 @@ storing website which categorizes materials intuitively and enables students to 
 - 85th in AUST Inter University Programming Contest 2022
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar118&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar118&show_icons=true&include_all_commits=true&theme=radical)
 
 ## 🌐 Languages
 - Bangla (Native)
