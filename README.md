@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Abrar Mahir Esam
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abrar118/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel)](https://www.abrarmahiresam.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel)](https://www.abrarmahiresam.dev)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-03A89E?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Abrar_Mahir_Esam)
 [![Email](https://img.shields.io/badge/Email-Reach_out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abrarme118@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Abrar118&style=flat-square&color=blue)
 
 **Full-stack software engineer** building scalable web, mobile, and desktop systems across **Spring Boot**, **Next.js**, **Flutter**, and **Rust**. Codeforces **Specialist** and competitive programmer with a strong foundation in algorithms and system design, plus a published **IEEE** researcher in applied AI. Currently a Software Engineer at Bengal Byte and pursuing an **MSc in CSE** at the Military Institute of Science and Technology (MIST).
 
@@ -114,8 +115,10 @@ Management platform for an academic mathematics society — events, digital maga
 
 ## 📊 GitHub Stats
 
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar118&show_icons=true&include_all_commits=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar118&layout=compact&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abrar118&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abrar118&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abrar118&theme=radical)
 
 ## 🌐 Languages
 
@@ -126,7 +129,7 @@ Management platform for an academic mathematics society — events, digital maga
 ## 📫 Get in Touch
 
 - **Email:** abrarme118@gmail.com
-- **Portfolio:** [abrarmahiresam.tech](https://www.abrarmahiresam.tech)
+- **Portfolio:** [abrarmahiresam.dev](https://www.abrarmahiresam.dev)
 - **Location:** Mirpur DOHS, Dhaka, Bangladesh
 
 ---
