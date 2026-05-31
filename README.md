@@ -98,7 +98,7 @@ Management platform for an academic mathematics society — events, digital maga
 
 `Next.js 14` · `Supabase` · `PostgreSQL` · `Zustand`
 
-## �feature 🔬 Research & Publications
+## 🔬 Research & Publications
 
 - **AI-Enhanced Application for Incentivizing Waste Recycling: A Step towards Sustainable Environment** — *2025 IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN 2025)*
 - **Analysing Low-Resource Language Feedback Across Industries** — a web-based tool using multi-paradigm ML for customer-satisfaction prediction, including a custom dataset for sentiment analysis in Romanized Bengali (Final-Year Thesis)
